@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: aqua;
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bank{
+  font-size: 30px;
+}
+
+.topline{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    padding-bottom: 100px;
+}
+
+.image{
+    height: 100px;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.d{
+    /* border: 1px solid black; */
+    height: 100px;
+    text-align: center;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: -100px;
+    font-size: 20px;
+}
+
+.dropbtn {
+  background-color: aqua;    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .secdropcon a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+  }
+
+  .secdrop{
+    position: relative;
+    display: inline-block;
+  }
+
+  .secdropcon {
+    
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        /* z-index: 1; */
+    
+  }
+
+  .secdrpbtn{
+    background-color: aqua;    color: black;    
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    
+  }
+
+  .secdropcon a:hover {background-color: #ddd;}
+  
+  .secdrop:hover .secdropcon {display: block;}
+  
+  .secdrop:hover .secdrpbtn {background-color: #3e8e41;}
+
+  .firstdrop {
+    position: relative;
+    display: inline-block;
+  }
+
+  .firstdropbtn {
+    background-color: aqua;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    
+  }
+
+  .butnouter{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100%;
+    margin-top: 15px;
+    /* gap: 1px; */
+  }
+
+  .thirddrpbtn{
+    background-color: aqua;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    
+  }
+
+  .thirddropcon a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+  }
+
+  .thirddropcon {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+
+  }
+
+  .thirddropcon a:hover {background-color: #ddd;}
+  
+  .thirddrop:hover .thirddropcon {display: block;}
+  
+  .thirddrop:hover .thirddrpbtn {background-color: #3e8e41;}
+
+  .fourthdrpbtn{
+    background-color: aqua;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    
+  }
+
+  .fourthdropcon a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+  }
+
+  .fourthdropcon{
+    
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+
+}
+
+.fourthdropcon a:hover {background-color: #ddd;}
+  
+  .fourthdrop:hover .fourthdropcon {display: block;}
+  
+  .fourthdrop:hover .fourthdrpbtn {background-color: #3e8e41;}
+/* 
+  hr{
+    background-color: yellow;
+  } */

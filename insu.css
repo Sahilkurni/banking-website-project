@@ -1,0 +1,54 @@
+*{
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+
+.fild{
+    
+    width: 80%;
+     height: 100%;
+     justify-content: center;  
+     display: flex;
+     padding-left: 150px;
+     gap: 5em;
+    
+     
+ }
+ .head{
+    text-align: center;
+   align-content: center;
+   width: 80%;
+    
+ }
+ div p{
+  text-align: center;
+  justify-content: center;
+  display: block;
+ }
+ .h{
+    text-align: center;
+    font-size: 40px;
+ }
+ body h3{
+    text-align: center;
+ }
+ body h1{
+    text-align: center;
+ }
+
+ .adv{
+    display: flex;
+    gap: 2em;
+ }
+
+ .end{
+    display: flex;
+    gap: 10em;
+    
+    padding: 50px;
+ }
+ .p{
+    text-align: center;
+    font-size: 30px;
+ }

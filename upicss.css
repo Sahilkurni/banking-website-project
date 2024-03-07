@@ -1,0 +1,14 @@
+*{
+    margin: 40px;
+}
+.flex{
+    display: flex;
+}
+img{
+    width: 45%px;
+    height: 80%;
+   
+}
+.head{
+    font-size: 50px;
+}

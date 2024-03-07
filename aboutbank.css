@@ -1,0 +1,54 @@
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: aliceblue;
+}
+::-webkit-scrollbar-thumb{
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.heading{
+    border: 1px solid rgba(219, 178, 178, 0.652);
+    height: 100px;
+    font-size: 30px;
+}
+.abtbank{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 900px;
+    margin-left: auto;
+    font-size: 25px;
+    text-align: auto;
+    justify-content: auto;
+}
+.inf{
+    /* border: 1px solid black; */
+    display: flex;
+    align-content: right;
+    height: 600px;
+}
+.about{
+    font-size: 50px;
+}
+.second{
+    /* border: 1px solid black; */
+    margin-left: auto;
+    height: auto;
+    width: 900px;
+    /* margin-left: 615px; */
+    font-size: 25px;
+    text-align: auto;
+    justify-content: auto;
+}
+.secout{
+    /* border: 1px solid black; */
+    display: flex;
+    align-content: left;
+}
+.images1{
+    height: 600px;
+    width: 600px;
+    border: 2px solid aqua;
+}

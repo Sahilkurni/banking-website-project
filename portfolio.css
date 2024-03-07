@@ -1,0 +1,57 @@
+.portfolio{
+    color: white; 
+    border: 2px solid rgba(0, 0, 0, 0.271);
+    height: 500px;
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+    float: left;
+    clear: none;
+    font-size: 20px;
+    
+}
+.first{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: large;
+    background-color: rgb(27, 27, 27);
+    font-size: 20px;
+
+
+}
+.sec{
+    /* border: 1px solid black; */
+    height: 260px;
+    width: 20%;
+    margin-left: 400px;
+    margin-top: -410px;
+    font-size: large;
+    background-color: rgb(27, 27, 27);
+    font-size: 20px;
+
+
+}
+.third{
+    /* border: 1px solid black; */
+    height: 260px;
+    width: 16%;
+    margin-left: 750px;
+    margin-top: -260px;
+    font-size: large;
+    background-color: rgb(27, 27, 27);
+    font-size: 20px;
+
+}
+.fourth{
+    /* border: 1px solid black; */
+    height: 260px;
+    width: 12%;
+    background-color: rgb(27, 27, 27);
+    margin-left: 1050px;
+    margin-top: -250px;
+    font-size: 20px;
+
+
+}
