@@ -1,4 +1,7 @@
-
+*{
+    margin: auto;
+    padding: auto;
+}
 .images{
     /* border: 2px solid black; */
     height: 500px;

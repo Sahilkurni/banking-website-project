@@ -8,6 +8,10 @@
     background-color: aqua;
     border-radius: 5px;
 }
+*{
+    margin: auto;
+    padding: auto;
+}
 
 .heading{
     border: 1px solid rgba(219, 178, 178, 0.652);

@@ -1,8 +1,8 @@
 *{
-    margin-right: 50px;
-    margin-left:50px ;
-    
+    margin: auto;
+    padding: auto;
 }
+
 .image{
     text-align: left;
 }

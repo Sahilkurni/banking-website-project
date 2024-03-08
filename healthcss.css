@@ -16,3 +16,8 @@ h1{
     gap: 5em;
     padding: 40px;
 }
+
+*{
+    margin: auto;
+    padding: auto;
+}

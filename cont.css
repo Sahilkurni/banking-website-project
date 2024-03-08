@@ -1,6 +1,7 @@
-/* *{
-    margin: 10px;
-} */
+*{
+    margin: auto;
+    padding: auto;
+}
 
 .top{
     padding-top: 50px;
